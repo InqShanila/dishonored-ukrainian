@@ -1,0 +1,37 @@
+{
+  "id": "dishonored-ukrainian",
+  "title": "Translation: Ukrainian [Dishonored RPG]",
+  "description": "Неофіційний український переклад системи Dishonored Roleplaying Game для Foundry VTT",
+  "version": "0.1.0",
+  "library": "false",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
+  },
+  "authors": [
+    {
+      "name": "Kem",
+      "discord": "Kem#4667"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "FVTT-Dishonored",
+        "manifest": "https://raw.githubusercontent.com/CurtR95/FVTT-Dishonored/master/system.json",
+        "compatibility": {
+          "minimum": "0.6.0",
+          "verified": "0.6.0"
+        }
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "uk",
+      "name": "Українська (Ukrainian)",
+      "path": "lang/uk.json"
+    }
+  ]
+}
