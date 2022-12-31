@@ -37,6 +37,6 @@
   "url": "https://github.com/InqShanila/dishonored-ukrainian",
   "license": "https://github.com/InqShanila/dishonored-ukrainian/blob/main/LICENSE.md",
   "readme": "https://github.com/InqShanila/dishonored-ukrainian/blob/main/README.md",
-  "manifest": "https://raw.githubusercontent.com/InqShanila/dishonored-ukrainian/main/module.json?token=GHSAT0AAAAAAB4HB4S7YA5Y2J2MYDJDQM7EY5PO4LA",
+  "manifest": "https://raw.githubusercontent.com/InqShanila/dishonored-ukrainian/main/module.json",
   "download": "https://github.com/InqShanila/dishonored-ukrainian/archive/refs/heads/main.zip"
 }
