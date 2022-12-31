@@ -1,7 +1,5 @@
 {
     "dishonored.__comment": "The Dishonored System allows for dynamic location of variables. These are indicated via |#|.",
-
-
     "dishonored.notifications.momentum.trackerPermissions1": "The <b>Momentum Tracker User Role</b> does not have permissions to <b>Modify Configuration Settings</b>. Please either change ",
     "dishonored.notifications.chaos.trackerPermissions1": "The <b>Chaos Tracker User Role</b> does not have permissions to <b>Modify Configuration Settings</b>. Please either change ",
     "dishonored.notifications.trackerPermissions2": " so that User Role: ",
@@ -31,8 +29,6 @@
     "dishonored.notifications.chaosGreaterSet": "THAT IS TOO MUCH CHAOS!",
     "dishonored.notifications.chaosButtonInvalidPermissions": "You do not have sufficient permissions to change the Chaos tracker.",
     "dishonored.notifications.s2A": "NPC with the name: |#| has been created!",
-
-
     "dishonored.settings.names.multipleComplications": "Multiple Complications:",
     "dishonored.settings.hints.multipleComplications": "The rulebook states \"Any die which rolled 20 causes a complication\". This is slightly unclear and as of Version 8 of the PDF, this is still not clear - likely due to the incredible rarity. Enabling this will allow roles to display \"There were x Complications\" if multiple 20s are rolled. Disabling will just state a single complication.",
     "dishonored.settings.names.send2ActorPermissionLevel": "Send2Actor User Role:",
@@ -45,28 +41,20 @@
     "dishonored.settings.hints.maxNumberOfExperience": "Max number of experience that can be given to a character. 30 is default, anything past 50 becomes almost unreadable.",
     "dishonored.settings.names.trackerRefreshRate": "Refresh Rate of Chaos & Momentum:",
     "dishonored.settings.hints.trackerRefreshRate": "In seconds, how often should the tracker refresh. It is inadvisable to set this too low. Up this if it appears to be causing optimisation issues.",
-
-
     "dishonored.titles.createItem": "Create Item",
     "dishonored.titles.editItem": "Edit Item",
     "dishonored.titles.deleteItem": "Delete Item",
-
-
     "dishonored.counting.one": "1",
     "dishonored.counting.two": "2",
     "dishonored.counting.three": "3",
     "dishonored.counting.four": "4",
     "dishonored.counting.five": "5",
-
-
     "dishonored.actor.item.adjectiveNew": "New",
-
     "dishonored.actor.npc.types": "NPC Type",
     "dishonored.actor.npc.incidental": "Incidental",
     "dishonored.actor.npc.notable": "Notable",
     "dishonored.actor.npc.minor": "Minor",
     "dishonored.actor.npc.major": "Major",
-
     "dishonored.actor.character.momentum": "Momentum Track",
     "dishonored.actor.character.experience": "Experience Track",
     "dishonored.actor.character.name": "Name",
@@ -78,10 +66,8 @@
     "dishonored.actor.character.archetype": "Archetype",
     "dishonored.actor.character.outlook": "Outlook",
     "dishonored.actor.character.void": "Void Points Track",
-
     "dishonored.actor.skisty.mod": "Mod",
     "dishonored.actor.skisty.check": "Perform Check",
-
     "dishonored.actor.skill.title": "Skills",
     "dishonored.actor.skill.name": "Skill Name",
     "dishonored.actor.skill.fight": "Fight",
@@ -90,7 +76,6 @@
     "dishonored.actor.skill.survive": "Survive",
     "dishonored.actor.skill.talk": "Talk",
     "dishonored.actor.skill.tinker": "Tinker",
-
     "dishonored.actor.style.title": "Styles",
     "dishonored.actor.style.name": "Style Name",
     "dishonored.actor.style.boldly": "Boldly",
@@ -99,22 +84,16 @@
     "dishonored.actor.style.forcefully": "Forcefully",
     "dishonored.actor.style.quietly": "Quietly",
     "dishonored.actor.style.swiftly": "Swiftly",
-
     "dishonored.actor.genericitem.name": "Name",
     "dishonored.actor.genericitem.cost": "Value",
-
     "dishonored.actor.focus.title": "Focuses",
     "dishonored.actor.focus.rating": "Rating",
-
     "dishonored.actor.abilities.mana": "Mana Points",
-
     "dishonored.actor.talent.title": "Talents",
     "dishonored.actor.talent.type": "Type",
-
     "dishonored.actor.power.title": "Powers",
     "dishonored.actor.power.rune": "Rune",
     "dishonored.actor.power.mana": "Mana",
-
     "dishonored.actor.belonging.title": "Belongings",
     "dishonored.actor.belonging.collectable.coin": "Coins",
     "dishonored.actor.belonging.collectable.rune": "Runes",
@@ -142,44 +121,28 @@
     "dishonored.actor.belonging.other.title": "Item Name",
     "dishonored.actor.belonging.other.qty": "Qty",
     "dishonored.actor.belonging.other.quantity": "Quantity",
-
     "dishonored.actor.truth.title": "Truths",
     "dishonored.actor.truth.content": "Content of Truth",
-
     "dishonored.actor.contact.title": "Contacts",
     "dishonored.actor.contact.relation": "Relation",
-    
     "dishonored.actor.note.title": "Notes",
-
-
     "dishonored.contact.relation.great": "Great",
     "dishonored.contact.relation.fair": "Fair",
     "dishonored.contact.relation.neutral": "Neutral",
     "dishonored.contact.relation.poor": "Poor",
     "dishonored.contact.relation.dire": "Dire",
-
-
     "dishonored.item.truth": "Truth",
-
-    
     "dishonored.item.armor.helmet": "Is Helmet?",
     "dishonored.item.contact.send2actor": "Send to Actor",
-
-
     "dishonored.apps.dicepoolwindow": "Dice Pool",
     "dishonored.apps.focus": "Focus Rating",
     "dishonored.apps.pool": "Number of Dice in Pool",
     "dishonored.apps.rolldice": "Roll Dice",
-
-
     "dishonored.roll.success": " Success",
     "dishonored.roll.successPlural": " Successes",
     "dishonored.roll.test": " Skill Test",
     "dishonored.roll.complication": "There was a complication!",
     "dishonored.roll.complicationPlural": "There were |#| complications!",
-
-
-    
     "dishonored.roll.html.target": "Target",
     "dishonored.roll.html.focus": "Focus",
     "dishonored.roll.contact.relation": "<b>|#|</b> Relationship with Contact",
@@ -191,11 +154,7 @@
     "dishonored.roll.power.mana": "Costs <b>|#|</b> Mana to use",
     "dishonored.roll.item.value": "|#| Coins",
     "dishonored.roll.item.quantity": "|#|x Items",
-
-
     "dishonored.tracker.chaos": "Хаос",
     "dishonored.tracker.momentum": "Моментум",
-
-
     "dishonored.__eof": "This is an end of file because I'm lazy and keep forgetting commas. This shouldn't be in the final commit (sorry if it is - see previous sentence)."
 }
